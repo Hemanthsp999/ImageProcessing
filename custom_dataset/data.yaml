@@ -1,0 +1,5 @@
+train: /home/hexa/Assignment/train/images
+val: /home/hexa/Assignment/val/images
+
+nc: 2
+names: ['Child', 'Therapist']
